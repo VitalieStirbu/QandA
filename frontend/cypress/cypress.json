@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://qanda-staging-frontend.azurewebsites.net",
+    "integrationFolder": "integration",
+    "pluginsFile": "plugins/index.js",
+    "supportFile": "support/index.js"
+    }
