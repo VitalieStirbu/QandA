@@ -14,5 +14,5 @@ variables:
 
 steps:
 - script: dotnet build --configuration $(buildConfiguration)
-  workingDirectory: backend
+  workingDirectory: backend/QandA
   displayName: 'backend build'
